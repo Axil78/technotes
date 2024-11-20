@@ -12,7 +12,7 @@ const Public = () => {
                 <address className="public__addr">
                    Axil Repairs<br />
                     Amreli,Gujarat<br />
-                    Pincode:382421<br />
+                    Pincode:365601<br />
                     
                 </address>
                 <br />
